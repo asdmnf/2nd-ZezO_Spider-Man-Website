@@ -542,6 +542,13 @@ section .title{
         display: none;
     }
 }
+@media (max-width:400px){
+    .search .side-container-text {
+        padding-top: 9vh;
+        padding-left: 7vw;
+        padding-right: 3vw;
+    }
+}
 .search .side-container-text p span:first-child{
     color: rgba(255, 255, 255, 0.9);
     font-size: 20px;
@@ -726,8 +733,9 @@ transition: .3s ease;
     opacity: .8;
     width: 100%;
     padding: 15px;
-    position: absolute;
+    position: relative;
     bottom: 0;
+    margin-top: 150px;
 }
 .about .footer h3{
     text-align: center;
