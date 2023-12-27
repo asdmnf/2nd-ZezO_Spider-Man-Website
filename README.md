@@ -2,6 +2,8 @@
 
 This project was deployed at [2nd-ZezO_Spider-Man-Website](https://asdmnf.github.io/2nd-ZezO_Spider-Man-Website).
 
+**[Video Preview](https://youtu.be/xjVdCVssJyI)**.
+
 ### `Note`
 
 may be this project is not completed as i wish.\
